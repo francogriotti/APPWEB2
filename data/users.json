@@ -1,0 +1,170 @@
+[
+  {
+    "Id": 1,
+    "nombre": "Franco",
+    "apellido": "Griotti",
+    "direccion": "Almirante Brown 767, Córdoba, Argentina",
+    "email": "franco.griotti@hotmail.com",
+    "password": "clave123"
+  },
+  {
+    "Id": 2,
+    "nombre": "Madelaine",
+    "apellido": "Pelliza",
+    "direccion": "Almirante Brown 767, Córdoba, Argentina",
+    "email": "madee_1994@hotmail.com",
+    "password": "password456"
+  },
+  {
+    "Id": 3,
+    "nombre": "Susana",
+    "apellido": "Griotti",
+    "direccion": "Baradero 1825, Córdoba, Argentina",
+    "email": "sugriotti@hotmail.com",
+    "password": "clave123"
+  },
+  {
+    "Id": 4,
+    "nombre": "Nahuel",
+    "apellido": "Tejeda Griotti",
+    "direccion": "Baradero 1825, Córdoba, Argentina",
+    "email": "natejeda@hotmail.com",
+    "password": "clave123"
+  },
+  {
+    "Id": 5,
+    "nombre": "Vanesa",
+    "apellido": "Duran",
+    "direccion": "Luis Vernet 2147, Córdoba, Argentina",
+    "email": "vgduran@live.com",
+    "password": "contraseña987"
+  },
+  {
+    "Id": 6,
+    "nombre": "Silvia",
+    "apellido": "Centioni",
+    "direccion": "Luis Vernet 2147, Córdoba, Argentina",
+    "email": "silcentioni@hotmail.com",
+    "password": "mipass456"
+  },
+  {
+    "Id": 7,
+    "nombre": "Ricardo",
+    "apellido": "Pelliza",
+    "direccion": "Viamonte 825, Córdoba, Argentina",
+    "email": "ricardopelliza@gmail.com",
+    "password": "clave123"
+  },
+  {
+    "Id": 8,
+    "nombre": "Federico",
+    "apellido": "Cagliero",
+    "direccion": "Diego 333, Córdoba, Argentina",
+    "email": "fcagliero@hotmail.com",
+    "password": "clave123"
+  },
+  {
+    "Id": 9,
+    "nombre": "Adrian",
+    "apellido": "Heredia",
+    "direccion": "Almirante Brown 975, Córdoba, Argentina",
+    "email": "adrian.heredia@live.com",
+    "password": "heredia123"
+  },
+  {
+    "Id": 10,
+    "nombre": "Federico",
+    "apellido": "Gonzalez",
+    "direccion": "Av. Colon 890, Córdoba, Argentina",
+    "email": "federicogonzalez@hotmail.com.ar",
+    "password": "federico123"
+  },
+  {
+    "Id": 11,
+    "nombre": "Federico",
+    "apellido": "Gonzalez",
+    "direccion": "Av. Colon 890, Córdoba, Argentina",
+    "email": "federicogonzalez@hotmail.com.ar",
+    "password": "federico123"
+  },
+  {
+    "Id": 12,
+    "nombre": "Lucía",
+    "apellido": "Martínez",
+    "direccion": "Calle San Martín 1020, Rosario, Argentina",
+    "email": "luciamartinez@gmail.com",
+    "password": "lucia2021"
+  },
+  {
+    "Id": 13,
+    "nombre": "Carlos",
+    "apellido": "Pérez",
+    "direccion": "Av. Rivadavia 4500, Buenos Aires, Argentina",
+    "email": "carlosperez@yahoo.com",
+    "password": "carlosp456"
+  },
+  {
+    "Id": 14,
+    "nombre": "María",
+    "apellido": "López",
+    "direccion": "Calle Belgrano 980, Mendoza, Argentina",
+    "email": "marialopez@hotmail.com",
+    "password": "maria789"
+  },
+  {
+    "Id": 15,
+    "nombre": "Juan",
+    "apellido": "Ramírez",
+    "direccion": "Calle Florida 123, Buenos Aires, Argentina",
+    "email": "juanramirez@gmail.com",
+    "password": "juan1234"
+  },
+  {
+    "Id": 16,
+    "nombre": "Ana",
+    "apellido": "Gutiérrez",
+    "direccion": "Av. Mitre 500, La Plata, Argentina",
+    "email": "anagutierrez@hotmail.com",
+    "password": "ana5678"
+  },
+  {
+    "Id": 17,
+    "nombre": "Miguel",
+    "apellido": "Díaz",
+    "direccion": "Calle Las Heras 720, San Juan, Argentina",
+    "email": "migueldiaz@yahoo.com",
+    "password": "miguel9012"
+  },
+  {
+    "Id": 18,
+    "nombre": "Laura",
+    "apellido": "Fernández",
+    "direccion": "Av. Sarmiento 1300, Resistencia, Argentina",
+    "email": "laurafernandez@gmail.com",
+    "password": "laura3456"
+  },
+  {
+    "Id": 19,
+    "nombre": "Santiago",
+    "apellido": "Herrera",
+    "direccion": "Calle Moreno 650, Salta, Argentina",
+    "email": "santiagoherrera@hotmail.com",
+    "password": "santiago7890"
+  },
+  {
+    "Id": 20,
+    "nombre": "Valeria",
+    "apellido": "Torres",
+    "direccion": "Av. Pellegrini 300, Tucumán, Argentina",
+    "email": "valeriatorres@yahoo.com",
+    "password": "clave12346"
+  },
+  {
+    "Id": 21,
+    "nombre": "Susana",
+    "apellido": "Griotti",
+    "direccion": "Baradero 1825, Córdoba, Argentina",
+    "email": "sugriottis@hotmail.com",
+    "password": "clave1234"
+  }
+]

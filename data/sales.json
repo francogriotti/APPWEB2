@@ -1,0 +1,874 @@
+[
+  {
+    "id": 1,
+    "id_usuario": 1,
+    "fecha": "2023-01-15",
+    "total": 30000,
+    "id_producto": [
+      {
+        "id": "microprocesador-01",
+        "cant": 1
+      },
+      {
+        "id": "monitores-03",
+        "cant": 2
+      },
+      {
+        "id": "notebooks-02",
+        "cant": 1
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "id_usuario": 2,
+    "fecha": "2023-01-16",
+    "total": 30000,
+    "id_producto": [
+      {
+        "id": "monitores-01",
+        "cant": 1
+      },
+      {
+        "id": "notebooks-01",
+        "cant": 2
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "id_usuario": 3,
+    "fecha": "2023-01-17",
+    "total": 20000,
+    "id_producto": [
+      {
+        "id": "microprocesador-02",
+        "cant": 1
+      },
+      {
+        "id": "notebooks-03",
+        "cant": 1
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "id_usuario": 4,
+    "fecha": "2023-01-18",
+    "total": 40000,
+    "id_producto": [
+      {
+        "id": "monitores-02",
+        "cant": 2
+      },
+      {
+        "id": "notebooks-04",
+        "cant": 2
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "id_usuario": 5,
+    "fecha": "2023-01-19",
+    "total": 10000,
+    "id_producto": [
+      {
+        "id": "microprocesador-03",
+        "cant": 1
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "id_usuario": 6,
+    "fecha": "2023-01-20",
+    "total": 20000,
+    "id_producto": [
+      {
+        "id": "monitores-04",
+        "cant": 1
+      },
+      {
+        "id": "notebooks-05",
+        "cant": 1
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "id_usuario": 7,
+    "fecha": "2023-01-21",
+    "total": 30000,
+    "id_producto": [
+      {
+        "id": "microprocesador-04",
+        "cant": 2
+      },
+      {
+        "id": "monitores-05",
+        "cant": 1
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "id_usuario": 8,
+    "fecha": "2023-01-22",
+    "total": 30000,
+    "id_producto": [
+      {
+        "id": "monitores-06",
+        "cant": 2
+      },
+      {
+        "id": "notebooks-06",
+        "cant": 1
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "id_usuario": 9,
+    "fecha": "2023-01-23",
+    "total": 10000,
+    "id_producto": [
+      {
+        "id": "microprocesador-05",
+        "cant": 1
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "id_usuario": 10,
+    "fecha": "2023-01-24",
+    "total": 40000,
+    "id_producto": [
+      {
+        "id": "monitores-07",
+        "cant": 2
+      },
+      {
+        "id": "notebooks-07",
+        "cant": 2
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "id_usuario": 19,
+    "fecha": "2023-01-25",
+    "total": 20000,
+    "id_producto": [
+      {
+        "id": "microprocesador-06",
+        "cant": 1
+      },
+      {
+        "id": "notebooks-08",
+        "cant": 1
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "id_usuario": 18,
+    "fecha": "2023-01-26",
+    "total": 20000,
+    "id_producto": [
+      {
+        "id": "monitores-08",
+        "cant": 1
+      },
+      {
+        "id": "notebooks-09",
+        "cant": 1
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "id_usuario": 17,
+    "fecha": "2023-01-27",
+    "total": 30000,
+    "id_producto": [
+      {
+        "id": "microprocesador-07",
+        "cant": 2
+      },
+      {
+        "id": "monitores-09",
+        "cant": 1
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "id_usuario": 16,
+    "fecha": "2023-01-28",
+    "total": 30000,
+    "id_producto": [
+      {
+        "id": "monitores-10",
+        "cant": 1
+      },
+      {
+        "id": "notebooks-10",
+        "cant": 2
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "id_usuario": 15,
+    "fecha": "2023-01-29",
+    "total": 10000,
+    "id_producto": [
+      {
+        "id": "microprocesador-08",
+        "cant": 1
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "id_usuario": 14,
+    "fecha": "2023-01-30",
+    "total": 30000,
+    "id_producto": [
+      {
+        "id": "monitores-01",
+        "cant": 3
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "id_usuario": 13,
+    "fecha": "2023-01-31",
+    "total": 20000,
+    "id_producto": [
+      {
+        "id": "microprocesador-09",
+        "cant": 1
+      },
+      {
+        "id": "notebooks-01",
+        "cant": 1
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "id_usuario": 12,
+    "fecha": "2023-02-01",
+    "total": 20000,
+    "id_producto": [
+      {
+        "id": "monitores-02",
+        "cant": 1
+      },
+      {
+        "id": "notebooks-02",
+        "cant": 1
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "id_usuario": 11,
+    "fecha": "2023-02-02",
+    "total": 30000,
+    "id_producto": [
+      {
+        "id": "microprocesador-10",
+        "cant": 1
+      },
+      {
+        "id": "monitores-03",
+        "cant": 2
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "id_usuario": 20,
+    "fecha": "2023-02-03",
+    "total": 30000,
+    "id_producto": [
+      {
+        "id": "microprocesador-01",
+        "cant": 3
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "id_usuario": 11,
+    "fecha": "2023-02-04",
+    "total": 10000,
+    "id_producto": [
+      {
+        "id": "monitores-04",
+        "cant": 1
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "id_usuario": 12,
+    "fecha": "2023-02-05",
+    "total": 30000,
+    "id_producto": [
+      {
+        "id": "microprocesador-02",
+        "cant": 1
+      },
+      {
+        "id": "notebooks-03",
+        "cant": 2
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "id_usuario": 13,
+    "fecha": "2023-02-06",
+    "total": 30000,
+    "id_producto": [
+      {
+        "id": "monitores-05",
+        "cant": 3
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "id_usuario": 14,
+    "fecha": "2023-02-07",
+    "total": 40000,
+    "id_producto": [
+      {
+        "id": "microprocesador-03",
+        "cant": 2
+      },
+      {
+        "id": "notebooks-04",
+        "cant": 2
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "id_usuario": 15,
+    "fecha": "2023-02-08",
+    "total": 20000,
+    "id_producto": [
+      {
+        "id": "monitores-06",
+        "cant": 1
+      },
+      {
+        "id": "notebooks-05",
+        "cant": 1
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "id_usuario": 16,
+    "fecha": "2023-02-09",
+    "total": 20000,
+    "id_producto": [
+      {
+        "id": "microprocesador-04",
+        "cant": 1
+      },
+      {
+        "id": "notebooks-06",
+        "cant": 1
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "id_usuario": 17,
+    "fecha": "2023-02-10",
+    "total": 30000,
+    "id_producto": [
+      {
+        "id": "monitores-07",
+        "cant": 2
+      },
+      {
+        "id": "notebooks-07",
+        "cant": 1
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "id_usuario": 18,
+    "fecha": "2023-02-11",
+    "total": 10000,
+    "id_producto": [
+      {
+        "id": "microprocesador-05",
+        "cant": 1
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "id_usuario": 19,
+    "fecha": "2023-02-12",
+    "total": 20000,
+    "id_producto": [
+      {
+        "id": "monitores-08",
+        "cant": 2
+      },
+      {
+        "id": "notebooks-08",
+        "cant": 2
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "id_usuario": 20,
+    "fecha": "2023-02-13",
+    "total": 20000,
+    "id_producto": [
+      {
+        "id": "microprocesador-06",
+        "cant": 1
+      },
+      {
+        "id": "notebooks-09",
+        "cant": 1
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "id_usuario": 1,
+    "fecha": "2023-02-14",
+    "total": 10000,
+    "id_producto": [
+      {
+        "id": "monitores-09",
+        "cant": 1
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "id_usuario": 2,
+    "fecha": "2023-02-15",
+    "total": 20000,
+    "id_producto": [
+      {
+        "id": "microprocesador-07",
+        "cant": 1
+      },
+      {
+        "id": "notebooks-10",
+        "cant": 1
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "id_usuario": 3,
+    "fecha": "2023-02-16",
+    "total": 30000,
+    "id_producto": [
+      {
+        "id": "monitores-10",
+        "cant": 3
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "id_usuario": 4,
+    "fecha": "2023-02-17",
+    "total": 20000,
+    "id_producto": [
+      {
+        "id": "microprocesador-08",
+        "cant": 1
+      },
+      {
+        "id": "notebooks-01",
+        "cant": 1
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "id_usuario": 5,
+    "fecha": "2023-02-18",
+    "total": 30000,
+    "id_producto": [
+      {
+        "id": "monitores-01",
+        "cant": 2
+      },
+      {
+        "id": "notebooks-02",
+        "cant": 1
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "id_usuario": 6,
+    "fecha": "2023-02-19",
+    "total": 40000,
+    "id_producto": [
+      {
+        "id": "microprocesador-09",
+        "cant": 2
+      },
+      {
+        "id": "notebooks-03",
+        "cant": 2
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "id_usuario": 7,
+    "fecha": "2023-02-20",
+    "total": 30000,
+    "id_producto": [
+      {
+        "id": "monitores-02",
+        "cant": 1
+      },
+      {
+        "id": "notebooks-04",
+        "cant": 2
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "id_usuario": 8,
+    "fecha": "2023-02-21",
+    "total": 10000,
+    "id_producto": [
+      {
+        "id": "microprocesador-10",
+        "cant": 1
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "id_usuario": 9,
+    "fecha": "2023-02-22",
+    "total": 50000,
+    "id_producto": [
+      {
+        "id": "monitores-03",
+        "cant": 3
+      },
+      {
+        "id": "notebooks-05",
+        "cant": 2
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "id_usuario": 10,
+    "fecha": "2023-02-23",
+    "total": 20000,
+    "id_producto": [
+      {
+        "id": "microprocesador-01",
+        "cant": 1
+      },
+      {
+        "id": "notebooks-06",
+        "cant": 1
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "id_usuario": 1,
+    "fecha": "2023-02-24",
+    "total": 20000,
+    "id_producto": [
+      {
+        "id": "monitores-04",
+        "cant": 1
+      },
+      {
+        "id": "notebooks-07",
+        "cant": 1
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "id_usuario": 12,
+    "fecha": "2023-02-25",
+    "total": 30000,
+    "id_producto": [
+      {
+        "id": "microprocesador-02",
+        "cant": 3
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "id_usuario": 3,
+    "fecha": "2023-02-26",
+    "total": 10000,
+    "id_producto": [
+      {
+        "id": "monitores-05",
+        "cant": 1
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "id_usuario": 14,
+    "fecha": "2023-02-27",
+    "total": 40000,
+    "id_producto": [
+      {
+        "id": "microprocesador-03",
+        "cant": 2
+      },
+      {
+        "id": "notebooks-08",
+        "cant": 2
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "id_usuario": 5,
+    "fecha": "2023-02-28",
+    "total": 20000,
+    "id_producto": [
+      {
+        "id": "monitores-06",
+        "cant": 1
+      },
+      {
+        "id": "notebooks-09",
+        "cant": 1
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "id_usuario": 16,
+    "fecha": "2023-03-01",
+    "total": 10000,
+    "id_producto": [
+      {
+        "id": "microprocesador-04",
+        "cant": 1
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "id_usuario": 7,
+    "fecha": "2023-03-02",
+    "total": 40000,
+    "id_producto": [
+      {
+        "id": "monitores-07",
+        "cant": 2
+      },
+      {
+        "id": "notebooks-10",
+        "cant": 2
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "id_usuario": 18,
+    "fecha": "2023-03-03",
+    "total": 30000,
+    "id_producto": [
+      {
+        "id": "microprocesador-05",
+        "cant": 3
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "id_usuario": 9,
+    "fecha": "2023-03-04",
+    "total": 30000,
+    "id_producto": [
+      {
+        "id": "monitores-08",
+        "cant": 1
+      },
+      {
+        "id": "notebooks-01",
+        "cant": 2
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "id_usuario": 10,
+    "fecha": "2023-03-05",
+    "total": 20000,
+    "id_producto": [
+      {
+        "id": "microprocesador-06",
+        "cant": 1
+      },
+      {
+        "id": "notebooks-02",
+        "cant": 1
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "id_usuario": 2,
+    "fecha": "2023-01-16",
+    "total": 30000,
+    "id_producto": [
+      {
+        "id": "monitores-01",
+        "cant": 1
+      },
+      {
+        "id": "notebooks-01",
+        "cant": 2
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "id_usuario": 2,
+    "fecha": "2024-06-26",
+    "total": 30000,
+    "id_producto": [
+      {
+        "id": "monitores-01",
+        "cant": 1
+      },
+      {
+        "id": "notebooks-01",
+        "cant": 2
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "id_usuario": 2,
+    "fecha": "2024-06-26",
+    "total": 30000,
+    "id_producto": [
+      {
+        "id": "monitores-01",
+        "cant": 1
+      },
+      {
+        "id": "notebooks-01",
+        "cant": 2
+      }
+    ],
+    "direccion": "Baradero 1837",
+    "ciudad": "Cordoba",
+    "codigop": 5014,
+    "telefono": "3516217271"
+  },
+  {
+    "id": 54,
+    "id_usuario": 1,
+    "fecha": "2024-06-27",
+    "total": 10000,
+    "id_producto": [
+      {
+        "id": "microprocesador-01",
+        "cant": 1
+      }
+    ],
+    "direccion": "Baradero 1824",
+    "ciudad": "Cordoba",
+    "codigop": "5014",
+    "telefono": "03516217271"
+  },
+  {
+    "id": 55,
+    "id_usuario": 3,
+    "fecha": "2024-06-27",
+    "total": 10000,
+    "id_producto": [
+      {
+        "id": "microprocesador-02",
+        "cant": 1
+      }
+    ],
+    "direccion": "Baradero 1825",
+    "ciudad": "Cordoba",
+    "codigop": "5000",
+    "telefono": "3512461733"
+  },
+  {
+    "id": 56,
+    "id_usuario": 2,
+    "fecha": "2024-06-27",
+    "total": 30000,
+    "id_producto": [
+      {
+        "id": "microprocesador-05",
+        "cant": 1
+      },
+      {
+        "id": "microprocesador-04",
+        "cant": 1
+      }
+    ],
+    "direccion": "Almirante Brown 767",
+    "ciudad": "Cordoba",
+    "codigop": "5003",
+    "telefono": "3513062848"
+  },
+  {
+    "id": 57,
+    "id_usuario": 9,
+    "fecha": "2024-06-27",
+    "total": 30000,
+    "id_producto": [
+      {
+        "id": "monitores-08",
+        "cant": 1
+      },
+      {
+        "id": "notebooks-07",
+        "cant": 1
+      },
+      {
+        "id": "placasvideo-08",
+        "cant": 1
+      }
+    ],
+    "direccion": "Almirante Brown 797",
+    "ciudad": "Cordoba",
+    "codigop": "5003",
+    "telefono": "123456"
+  }
+]

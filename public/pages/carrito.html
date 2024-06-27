@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TecnoShop - Carrito</title>
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700;800;900&display=swap">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">    
+    <link rel="stylesheet" href="../CSS/main.css">
+</head>
+
+<body>
+
+    <div class="wrapper">
+        <header class="header-mobile">
+            <h1 class="logo">TecnoShop</h1>
+            <button class="open-menu" id="open-menu">
+                <i class="bi bi-list"></i>
+            </button>
+        </header>
+        <aside>
+            <button class="close-menu" id="close-menu">
+                <i class="bi bi-x"></i>
+            </button>
+            <header>
+                <h1 class="logo">TecnoShop</h1>
+            </header>
+            <nav>
+                <ul>
+                    <li>
+                        <a class="boton-menu boton-volver" href="./main.html">
+                            <i class="bi bi-arrow-return-left"></i> Seguir comprando
+                        </a>
+                    </li>
+                    <li>
+                        <a class="boton-menu boton-carrito active" href="./carrito.html">
+                            <i class="bi bi-cart-fill"></i> Carrito
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+        </aside>
+        <main>
+            <h2 class="titulo-principal">Carrito</h2>
+            <div class="contenedor-carrito">
+                <p id="carrito-vacio" class="carrito-vacio"><b>Tu carrito está vacío, sumá productos!</b></p>
+                <div id="carrito-productos" class="carrito-productos disabled"></div>
+                <div id="carrito-acciones" class="carrito-acciones disabled">
+                    <div class="carrito-acciones-izquierda">
+                        <button id="carrito-acciones-vaciar" class="carrito-acciones-vaciar">Vaciar carrito</button>
+                    </div>
+                    <div class="carrito-acciones-derecha">
+                        <div id="total" class="carrito-acciones-total"></div>
+                        <button id="carrito-acciones-comprar" class="carrito-acciones-comprar">Comprar ahora</button>
+                    </div>
+                </div>
+                <p id="carrito-comprado" class="carrito-comprado disabled"><b>Muchas gracias por tu compra!</b></p>
+            </div>
+        </main>
+    </div>
+    
+    <template id="carrito-producto-template">
+        <div class="carrito-producto">
+            <img class="carrito-producto-imagen" alt="">
+            <div class="carrito-producto-titulo">
+                <small>Título</small>
+                <h3></h3>
+            </div>
+            <div class="carrito-producto-cantidad">
+                <small>Cantidad</small>
+                <div class="cantidad-container">
+                    <button class="cantidad-btn-disminuir" data-action="disminuir"><i class="bi bi-dash"></i></button>
+                    <p>  </p>
+                    <button class="cantidad-btn-incrementar" data-action="incrementar"><i class="bi bi-plus"></i></button>
+                </div>
+            </div>
+            <div class="carrito-producto-precio">
+                <small>Precio</small>
+                <p></p>
+            </div>
+            <div class="carrito-producto-subtotal">
+                <small>Subtotal</small>
+                <p></p>
+            </div>
+            <button class="carrito-producto-eliminar"><i class="bi bi-trash-fill"></i></button>
+        </div>
+    </template>
+    <template id="carrito-envio-template">
+        <h3>Datos envío</h3>                
+        <div class="carrito-envio datos contenedor-datos">
+            <div>
+                <input type="text" id="direccion" placeholder="Dirección" required>
+                <input type="text" id="ciudad" placeholder="Ciudad" required>
+            </div>
+            <div>
+                <input type="number" min="0" id="codigo" placeholder="Código postal" required>
+                <input type="number" min="0" id="telefono" placeholder="Teléfono" required>
+            </div>
+        </div>
+    </template>
+
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>    
+    <script src="../js/carrito.js"> type="module"</script>
+    <script src="../JS/menu.js"> type="module"</script>
+
+</body>
+</html>
