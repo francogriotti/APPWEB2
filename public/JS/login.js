@@ -68,7 +68,6 @@ if (formularioLogin) {
         const password = document.getElementById('loginPassword').value;
 
         const loginData = { email: email, password: password };
-        console.log('Datos de inicio de sesión:', loginData);
 
         fetch('http://localhost:5000/user/login', {
             method: "POST",
@@ -78,15 +77,11 @@ if (formularioLogin) {
             body: JSON.stringify(loginData)
         }).then(response => response.json())
         .then(data => {
-            console.log('Respuesta del servidor:', data);
             if (data.success) {
-                // Guardar el Id del usuario en sessionStorage
                 const userId = data.data.Id;
                 addSession({ Id: userId });
-                console.log('Inicio de sesión exitoso. Redirigiendo a main.html');
                 window.location.href = "../pages/main.html";
             } else {
-                console.log('Fallo en el inicio de sesión:', data.message);
                 alert(data.message);
             }
         })

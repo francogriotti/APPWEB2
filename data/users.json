@@ -166,5 +166,21 @@
     "direccion": "Baradero 1825, Córdoba, Argentina",
     "email": "sugriottis@hotmail.com",
     "password": "clave1234"
+  },
+  {
+    "Id": 22,
+    "nombre": "Susana",
+    "apellido": "Griotti",
+    "direccion": "Baradero 1825, Córdoba, Argentina",
+    "email": "sugriotti!@hotmail.com",
+    "password": "$2a$08$MEpwOI0WXTasA6QO0DWGo.OtNlvPUkrV1KVvGOy9zbQXOXxUTQ/W."
+  },
+  {
+    "Id": 23,
+    "nombre": "Susana",
+    "apellido": "Griotti",
+    "direccion": "Baradero 1825, Córdoba, Argentina",
+    "email": "su.griotti@hotmail.com",
+    "password": "$2a$08$hGYgsIdLYK7GYcBmF0Qke.8KxXVRGLnuUnsCyBvHF0dn61zgq54Si"
   }
 ]

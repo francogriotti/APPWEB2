@@ -7,7 +7,7 @@ const router = Router()
 const fileItems = await readFile('./data/items.json', 'utf-8')
 const itemsData = JSON.parse(fileItems)
 
-router.get('/byID/:id', (req, res) => {
+router.get('/byiD/:id', (req, res) => {
     const id = req.params.id
 
     const result = get_producto_byId(id)

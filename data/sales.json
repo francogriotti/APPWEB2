@@ -870,5 +870,25 @@
     "ciudad": "Cordoba",
     "codigop": "5003",
     "telefono": "123456"
+  },
+  {
+    "id": 58,
+    "id_usuario": 23,
+    "fecha": "2024-06-27",
+    "total": 20000,
+    "id_producto": [
+      {
+        "id": "microprocesador-01",
+        "cant": 1
+      },
+      {
+        "id": "microprocesador-02",
+        "cant": 1
+      }
+    ],
+    "direccion": "Baradero 1824",
+    "ciudad": "Cordoba",
+    "codigop": "5014",
+    "telefono": "03516217271"
   }
 ]
